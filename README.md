@@ -14,3 +14,13 @@ gravatar
 validator
 ejs
 multer
+
+Client:
+axios
+classnames 
+jwt-decode 
+moment 
+react-moment 
+react-redux 
+react-router-dom 
+redux redux-thunk
